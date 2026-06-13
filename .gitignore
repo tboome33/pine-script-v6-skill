@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Fetched on demand by scripts/fetch-pine-docs.mjs — NOT redistributed here
+references/pineDocs.json
